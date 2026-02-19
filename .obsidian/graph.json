@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#modul1",
+      "color": {
+        "a": 1,
+        "rgb": 32768
+      }
+    },
+    {
+      "query": "tag:#modul11",
+      "color": {
+        "a": 1,
+        "rgb": 8454016
+      }
+    },
+    {
+      "query": "tag:#modul2",
+      "color": {
+        "a": 1,
+        "rgb": 11184640
+      }
+    },
+    {
+      "query": "tag:#modul21",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#modul3",
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
+    },
+    {
+      "query": "tag:#modul31",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "tag:#modul4",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#modul41",
+      "color": {
+        "a": 1,
+        "rgb": 9732096
+      }
+    },
+    {
+      "query": "tag:#control",
+      "color": {
+        "a": 1,
+        "rgb": 6684672
+      }
+    },
+    {
+      "query": "tag:#final-control-test",
+      "color": {
+        "a": 1,
+        "rgb": 4456448
+      }
+    },
+    {
+      "query": "tag:#associative-repatterning",
+      "color": {
+        "a": 1,
+        "rgb": 3971582
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}
